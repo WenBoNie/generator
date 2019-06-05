@@ -1,0 +1,13 @@
+db:
+  url: jdbc:mysql://127.0.0.1:3306/digital-court
+  username: root
+  password: 123456
+author: unknown
+packageName: nblh
+path:
+  controller: controller
+  service: service.impl
+  interf: service
+  dao: dao
+  entity: entity
+  mapper: mappers
